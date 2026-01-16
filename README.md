@@ -33,10 +33,9 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 ![Seaborn](https://img.shields.io/badge/Seaborn-30A8D9?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyajit450&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
@@ -73,7 +72,7 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 
 ### ⚡ [SQL Data Analysis Challenge](https://github.com/satyajit450/sql_data_analysis_challenge)
 
-**Tech Stack:** SQL • PostgreSQL  
+**Tech Stack:** SQL • 
 **Status:** ✅ Complete | ⭐ 0+ Stars | 🍴 0+ Forks  
 *A collection of SQL queries designed to practice data retrieval, aggregation, and manipulation skills on a sample database.*
 
