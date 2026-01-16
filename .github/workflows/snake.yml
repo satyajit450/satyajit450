@@ -1,37 +1,34 @@
-name: Generate GitHub Snake
+name: GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:         # Allows manual trigger
+    - cron: '0 0 * * *'   # Daily update, 00:00 UTC
+  workflow_dispatch:       # Manual trigger bhi possible
 
 jobs:
-  build:
-    name: Generate and Deploy Snake
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ Checkout the repository
-      - name: Checkout repo
+      - name: Checkout Repo
         uses: actions/checkout@v3
 
-      # 2️⃣ Ensure dist folder exists
-      - name: Create dist folder
-        run: mkdir -p dist
-
-      # 3️⃣ Generate GitHub Snake SVG
-      - name: Generate Snake
-        id: snake
-        uses: Platane/snk@master
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          github_user_name: satyajit450
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          node-version: '20'
 
-      # 4️⃣ Deploy to output branch
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_history: false  # optional: overwrite previous snake
-        env:
-          GH_PAT: ${{ secrets.PAT_TOKEN }}  # Your PAT secret
+      - name: Install dependencies
+        run: |
+          npm install -g github-contribution-snake
+
+      - name: Generate Snake SVG
+        run: |
+          github-contribution-snake --username satyajit450 --output snake.svg --weeks 52 --theme github-dark
+
+      - name: Commit and Push SVG
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add snake.svg
+          git commit -m "Update contribution snake [skip ci]" || echo "No changes"
+          git push
