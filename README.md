@@ -38,21 +38,6 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 
 ---
 
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyajit450&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajit450&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=satyajit450&theme=darkhub&row=2&column=3" 
-    alt="GitHub Achievements" 
-  />
-</p>
-
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyajit450&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
@@ -71,7 +56,6 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 <div align="center">
 
 ### 🌟 [Data Exploration with Pandas](https://github.com/satyajit450/data_exploration_with_pandas)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=satyajit450&repo=data_exploration_with_pandas&theme=tokyonight)](https://github.com/satyajit450/data_exploration_with_pandas)
 
 **Tech Stack:** Python • Pandas • Jupyter Notebook  
 **Status:** ✅ Complete | ⭐ 0+ Stars | 🍴 0+ Forks  
@@ -80,7 +64,6 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 ---
 
 ### 🔥 [Basic Machine Learning Model](https://github.com/satyajit450/basic_ml_model)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=satyajit450&repo=basic_ml_model&theme=tokyonight)](https://github.com/satyajit450/basic_ml_model)
 
 **Tech Stack:** Python • Scikit-learn • Matplotlib  
 **Status:** 🚧 In Development | ⭐ 0+ Stars | 🍴 0+ Forks  
@@ -89,7 +72,6 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 ---
 
 ### ⚡ [SQL Data Analysis Challenge](https://github.com/satyajit450/sql_data_analysis_challenge)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=satyajit450&repo=sql_data_analysis_challenge&theme=tokyonight)](https://github.com/satyajit450/sql_data_analysis_challenge)
 
 **Tech Stack:** SQL • PostgreSQL  
 **Status:** ✅ Complete | ⭐ 0+ Stars | 🍴 0+ Forks  
