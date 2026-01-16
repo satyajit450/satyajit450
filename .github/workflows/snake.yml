@@ -1,34 +1,54 @@
-name: GitHub Contribution Snake
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+
+name: Generate Snake
+
+# Controls when the action will run. This action runs every 6 hours.
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # Daily update, 00:00 UTC
-  workflow_dispatch:       # Manual trigger bhi possible
+      # every 6 hours
+    - cron: "0 */6 * * *"
 
+# This command allows us to run the Action automatically from the Actions tab.
+  workflow_dispatch:
+
+# The sequence of runs in this workflow:
 jobs:
-  generate-snake:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
+
+    # Generates the snake  
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
-          node-version: '20'
+          github_user_name: satyajit450
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Install dependencies
-        run: |
-          npm install -g github-contribution-snake
+     # show the status of the build. Makes it easier for debugging (if there's any issues).
+      - run: git status
 
-      - name: Generate Snake SVG
-        run: |
-          github-contribution-snake --username satyajit450 --output snake.svg --weeks 52 --theme github-dark
+      # Push the changes
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
 
-      - name: Commit and Push SVG
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add snake.svg
-          git commit -m "Update contribution snake [skip ci]" || echo "No changes"
-          git push
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
