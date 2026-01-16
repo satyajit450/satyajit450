@@ -1,41 +1,24 @@
-name: Generate GitHub Contribution Snake
+name: Generate Snake
 
-# Run every 6 hours or manually
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  generate-snake:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      # 1️⃣ Checkout repo
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      # 2️⃣ Generate snake GIF + SVG
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@master
+      - uses: Platane/snk@v3
         with:
-          github_user_name: satyajit450
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          weeks: 52       # number of weeks to show
-          fps: 15         # higher FPS → snake looks moving
-          theme: github-dark
+          github_user_name: YOUR_GITHUB_USERNAME
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3️⃣ Commit and push changes
-      - name: Commit and push
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
-
-      # 4️⃣ Optional: Deploy to GitHub Pages (if needed)
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
