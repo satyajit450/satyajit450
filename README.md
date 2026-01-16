@@ -59,7 +59,7 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 </p>
 
 ### 📅 Contribution Calendar (Snake Style)
-<img src="https://raw.githubusercontent.com/satyajit450/satyajit450/output/github-contribution-grid-snake.svg" alt="Snake Contribution Calendar" width="100%"/>
+<img src="https://raw.githubusercontent.com/satyajit450/satyajit450/main/snake.svg" width="100%"/>
 
 
 ## 🏗️ Featured Projects
