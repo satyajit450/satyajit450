@@ -45,7 +45,7 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyajit450&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 📅 Contribution Calendar (Snake Style)
+### 📅 Contribution Calendar
 
 ![snake](https://raw.githubusercontent.com/satyajit450/satyajit450/output/github-contribution-grid-snake.svg)
 
