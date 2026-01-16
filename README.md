@@ -87,7 +87,7 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 - 🚀 Complete 5 more practical data science projects
 - 📚 Master key machine learning algorithms (Regression, Classification)
 - 🌟 Contribute to a beginner-friendly open-source project
