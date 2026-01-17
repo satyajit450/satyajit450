@@ -41,10 +41,10 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyajit450&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyajit450&theme=tokyonight&hide_border=true"/>
-</p>
 
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=satyajit450&theme=tokyonight&hide_border=true)
+
+  
 ### 📅 Contribution Calendar
 
 ![snake](https://raw.githubusercontent.com/satyajit450/satyajit450/output/github-contribution-grid-snake.svg)
@@ -81,8 +81,8 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 ---
 
 ## 🎓 Certifications & Achievements
-- 📜 Python for Data Science (Coursera/edX)
-- 📊 SQL for Data Analysis (DataCamp)
+- 📜 Python for Data Science (CodeWithHarry)
+- 📊 SQL for Data Analysis (CodeWithHarry)
 - 📚 Introduction to Machine Learning (Online Course)
 
 ---
