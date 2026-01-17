@@ -39,11 +39,6 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyajit450&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
-### 🔥 Streak Statistics
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=satyajit450&theme=tokyonight&hide_border=true&v=1)
-
   
 ### 📅 Contribution Calendar
 
