@@ -42,7 +42,7 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 
 ### 🔥 Streak Statistics
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=satyajit450&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=satyajit450&theme=tokyonight&hide_border=true&v=1)
 
   
 ### 📅 Contribution Calendar
