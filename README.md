@@ -104,7 +104,7 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 
 ### 📱 Social Presence
 [![GitHub followers](https://img.shields.io/github/followers/satyajit450?style=social)](https://github.com/satyajit450)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER)
+[![Twitter Follow](https://img.shields.io/twitter/follow/@satyajit_sahu90?style=social)](https://twitter.com/@satyajit_sahu90)
 
 </div>
 <div align="center">
