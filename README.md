@@ -62,7 +62,7 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 
 ### 🔥 [Basic Machine Learning Model](https://github.com/satyajit450/basic_ml_model)
 
-**Tech Stack:** Python • Scikit-learn • Matplotlib  
+**Tech Stack:** Python • Scikit-learn • Matplotlib
 **Status:** 🚧 In Development | ⭐ 0+ Stars | 🍴 0+ Forks  
 *This project explores a simple classification task using Scikit-learn, demonstrating basic model training and evaluation.*
 
