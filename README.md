@@ -55,7 +55,7 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 ### 🌟 [Data Exploration with Pandas](https://github.com/satyajit450/data_exploration_with_pandas)
 
 **Tech Stack:** Python • Pandas • Jupyter Notebook  
-**Status:** ✅ Complete | ⭐ 0+ Stars | 🍴 0+ Forks  
+**Status:** ✅ Complete | ⭐ 0+ Stars | 🍴 0+ Forks 
 *A beginner-friendly project focused on cleaning, transforming, and analyzing a public dataset using the Pandas library.*
 
 ---
