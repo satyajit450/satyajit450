@@ -110,7 +110,7 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=satyajit450&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
-  ### 🚀 "Data is the new oil! ⭐"
+  ### 🚀 "Data is the new oil !⭐"
 
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
