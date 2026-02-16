@@ -3,7 +3,7 @@
 </div>
 
 # 👨‍💻 SATYAJIT SAHU | Aspiring Data Scientist
-### 🚀 Exploring data, building insights, learning everyday
+### 🚀 Exploring data, building insights, learning everyday !!
 
 Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data Science and Machine Learning. I'm passionate about uncovering patterns, extracting meaningful insights from data, and building intelligent solutions. My journey has just begun, and I'm excited to explore new technologies, contribute to impactful projects, and grow as a developer and data professional.
 
