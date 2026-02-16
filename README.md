@@ -9,7 +9,7 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus !!
 
 - 🔭 Working on: **Foundational Data Science Projects & Python Practice**
 - 🌱 Learning: **Advanced Python, Machine Learning Algorithms, Data Visualization techniques**
