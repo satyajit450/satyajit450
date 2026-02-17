@@ -19,7 +19,7 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Technology Arsenal !!
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,27 +28,27 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-### 📊 Data Science & ML Libraries
+### 📊 Data Science & ML Libraries !!
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-BA4C33?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-30A8D9?style=for-the-badge&logo=seaborn&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases !!
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-### 📈 Contribution Activity
+### 📈 Contribution Activity !!
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyajit450&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
   
-### 📅 Contribution Calendar
+### 📅 Contribution Calendar !!
 
 ![snake](https://raw.githubusercontent.com/satyajit450/satyajit450/output/github-contribution-grid-snake.svg)
 
 
-## 🏗️ Featured Projects
+## 🏗️ Featured Projects !!
 
 <div align="center">
 
@@ -78,14 +78,14 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 
 ---
 
-## 🎓 Certifications & Achievements
+## 🎓 Certifications & Achievements !!
 - 📜 Python for Data Science (CodeWithHarry)
 - 📊 SQL for Data Analysis (CodeWithHarry)
 - 📚 Introduction to Machine Learning (Online Course)
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026 Goals !!
 - 🚀 Complete 5 more practical data science projects
 - 📚 Master key machine learning algorithms (Regression, Classification)
 - 🌟 Contribute to a beginner-friendly open-source project
@@ -93,7 +93,7 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 
 ---
 
-## 🌐 Let's Connect & Collaborate
+## 🌐 Let's Connect & Collaborate !!
 
 <div align="center">
   
