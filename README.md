@@ -43,7 +43,7 @@ Hello! I'm Satyajit, an enthusiastic learner diving deep into the world of Data 
 ### 📈 Contribution Activity !!
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyajit450&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyajit450&theme=tokyo-night" width="100%">
 </p>
   
 ### 📅 Contribution Calendar !!
